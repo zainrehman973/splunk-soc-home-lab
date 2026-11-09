@@ -49,11 +49,14 @@ Source IP `::1` is the IPv6 localhost address, because I tested against my own m
 
 | | |
 |---|---|
+| Kali VM running in VirtualBox | ![Kali desktop](screenshots/01-kali-desktop.png) |
+| Splunk Enterprise home page | ![Splunk home](screenshots/02-splunk-home.png) |
 | Logs arriving in Splunk | ![Auth log events](screenshots/03-auth-log-events.png) |
 | Failed logins | ![Failed logins](screenshots/04-failed-logins.png) |
 | New user created | ![New user](screenshots/05-new-user.png) |
 | User added to sudo | ![Sudo group](screenshots/06-sudo-group.png) |
 | Alert configuration | ![Alert](screenshots/06a-alert.png) |
+| Alert triggered | ![Triggered alert](screenshots/06b-triggered.png) |
 | Dashboard | ![Dashboard](screenshots/07-dashboard.png) |
 
 ## Incident report
